@@ -12,6 +12,6 @@ How to run the program:
     `gradlew.bat clean build` (Windows)
 4. Create fat jar:  `./gradlew fatJar`
 5. Navigate to the fat jar folder: `cd build/libs`
-6. Execute the fat jar file and set login and password: `java  -jar all-in-one-jar-1.0-SNAPSHOT.jar login password`
+6. Execute the fat jar and set login and password: `java  -jar all-in-one-jar-1.0-SNAPSHOT.jar login password`
 
 
