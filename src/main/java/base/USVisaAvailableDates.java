@@ -29,7 +29,7 @@ public class USVisaAvailableDates {
     public void setUp() throws IOException {
         var webDriverPath = System.getenv("WEB_DRIVER");
         if (webDriverPath == null) {
-            webDriverPath = ".jenkins/workspace/test/resources/chromedriver";
+            webDriverPath = "resources/chromedriver";
         }
         System.out.println("WebDriver will be used '%s'".formatted(webDriverPath));
         System.setProperty("webdriver.chrome.driver", webDriverPath);
