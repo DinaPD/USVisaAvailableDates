@@ -3,7 +3,7 @@ The Java program that checks for available dates on the US visa website and send
 **Java version:** 17.0.7
 **Gradle JVM:** corretto-17
 
-How to run the program:
+**How to run the program**:
 
  1. Clone the project: `git clone https://github.com/DinaPD/USVisaAvailableDates.git`
  2. Navigate to the project folder: `cd USVisaAvailableDates`
